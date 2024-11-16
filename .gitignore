@@ -1,6 +1,7 @@
 config.txt
-script.js
 data/
+js/
 *.exe 
+style.css
 # *. memberikan semua file yang sama tidak ikut ke opluad
 # data/ ada folder yang akan di tolak
